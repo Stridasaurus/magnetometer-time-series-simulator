@@ -1,7 +1,7 @@
 # Magnetometer Time Series Simulator
 
 **Version:** 1.0.0  
-**Author:** Strider Settgast with Deepseek
+**Author:** Strider Settgast
 
 This module provides a high-fidelity simulator for generating synthetic magnetometer data from dipole sources. It is specifically designed for generating training data for neural networks focused on magnetic source localization.
 
