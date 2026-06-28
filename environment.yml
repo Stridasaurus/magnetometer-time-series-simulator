@@ -1,0 +1,17 @@
+name: mhd_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - ipykernel
+  - pip
+  - pip:
+    - ppigrf
+    - pytest
+    - pytest-cov
+    - -e .
